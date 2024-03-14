@@ -19,6 +19,7 @@ I am Arthur, an always inspired and experienced Frontend developer
   </div>
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://www.esterox.com/images/shared/technologies/react-native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
       <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" title="Recoil" alt="Recoil " width="40" height="40"/>&nbsp;
