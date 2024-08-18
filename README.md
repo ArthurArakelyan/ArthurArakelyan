@@ -84,4 +84,9 @@ height="40"/>&nbsp;
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />
+  <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40" />
+  <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/abc34d7a-a916-4921-b051-257ece8ca755" title="Ethers.js" alt="Ethers.js" width="40" height="40" />
+  <img src="https://github.com/AlbertArakelyan/AlbertArakelyan/assets/61713118/89bf84b9-9f97-42cc-bcf9-6489675b9062" title="Alchemy" alt="Alchemy" width="40" height="40" />
 </div>
