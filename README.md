@@ -74,7 +74,7 @@ height="40"/>&nbsp;
 ### 🛠️ Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
